@@ -1,6 +1,2 @@
-modulos=principal
-idioma=es
-modulos=principal,informes
-idioma=es
-modulos=principal,alertas
+modulos=principal,informes,alertas
 idioma=es
