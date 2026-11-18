@@ -2,3 +2,5 @@ modulos=principal
 idioma=es
 modulos=principal,informes
 idioma=es
+modulos=principal,alertas
+idioma=es
